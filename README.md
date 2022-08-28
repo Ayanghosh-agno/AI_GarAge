@@ -1,6 +1,6 @@
 <a name="project-name"></a>
 <div align="center">
-  <img src="https://github.com/Ayanghosh-agno/AI-Based-Garage/blob/main/Images/garage.png" height=150px>
+  <img src="https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/garage.png" height=150px>
 </div>
 <div align="center">
   
@@ -34,6 +34,7 @@ The AI GARAGE is a prototype of the smart garage system, which is one of the ess
 
 
 
+
 <h2 align="center"> Short Description <a name="Short-Description"></a> </h2>
 
 ### What's the problem? <a name="whats-the-problem"></a>
@@ -41,3 +42,33 @@ The AI GARAGE is a prototype of the smart garage system, which is one of the ess
 The major issue in now a days are the busy life of the human mankind, due to which many of us forget to close the garage door in hurry and the consequences is very well known to us. Securing homes has become one of the concerning issues. Today homes are being more vulnerable for several threats especially being burgled. For this manner home security is needed. Home security implicitly means a secured mechanism for the door Also, there might be way to check if our garage door is open or close remotely form the CCTV installed in the garage but it is difficult for us to operate the door remotely. Moreover in this world where technology is taking over in a rocket speed we need to open the garage door every time manually while entering with our car.
 
 
+
+### Proposed Solution <a name="Proposed-Solution"></a>
+
+In this AI-GARAGE we had tried to eliminate the manual interaction as much as we can, using some latest technology like IoT, AI and ML to control and operate the garage door automatically or through our smartphones. The IoT-based smart garage door eliminates the need for carrying bulky keychains. All we need is to configure and integrate with smartphone with the home IoT network and with our facial image and car’s number plate and we can effortlessly open or close your garage door with just a few clicks of a button or automatically through the facial recognition and number/license plate detection!Along with some extra features like predicting the resell value of our car and also SMS alert for extra security.
+
+AI-GARAGE contains the following features:- 
+
+* Garage door opening with Facial-Recognition.
+
+* Garage door opening with Car number plate detection using OCR.
+
+* Automatic closing of the garage door after 5mins. 
+
+* Live preview of the garage door.
+
+* Controlling the Garage Lights using our Smart Phone.
+
+* Controlling the Garage door using our Smart-Phone.
+
+* Last image when the garage door was opened sent to the app.
+
+* SMS alert whenever the gargae door is opened.
+
+* We can also check each and every pic captured while opening the garage door stored securely in the IBM cloud’s Object-Storage.
+
+* We can also check our car's resell value using IBM watson Studio.
+
+<h2 align="center">Demo Video</h1><a name="Demo-Video"></a>
+
+[![Demo Video](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/Th)](https://youtu.be/)
