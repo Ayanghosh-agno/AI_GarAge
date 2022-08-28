@@ -86,3 +86,20 @@ AI-GARAGE contains the following features:-
 <div align="center">
 <img src="https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/UI_.png">
 </div>
+
+
+### About the hardware setup <a name="hardware-part"></a>
+<div align="center">
+  <img src="https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/Hardware-Setup.jpg">
+</div>
+
+## Hardware Requirements <a name="Hardware-Requirements"> </a> 
+
+* Jetson Nano
+* 8-channel relay module
+* Raspi V 2.0 camera
+* Garage door actuators(for opening and closing the door mechanically)
+
+
+![Hardware](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/Hardware.png)
+
