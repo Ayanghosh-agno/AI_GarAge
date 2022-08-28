@@ -80,3 +80,9 @@ AI-GARAGE contains the following features:-
 
 ## Long Description <a name="Long-Description"></a>
 [Long Description Document Link](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/DOCUMENTATION/AI-GARAGE.pdf)
+
+### More about the UI <a name="More-about-the-UI"></a>
+*Sample of the APP UI:*
+<div align="center">
+<img src="https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/UI_.png">
+</div>
