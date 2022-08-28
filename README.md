@@ -123,3 +123,5 @@ AI-GARAGE contains the following features:-
 ![picture alt](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/roadmap.png)
 
     
+## Circuit Setup <a name="Circuit-Setup"></a>
+ ![picture alt](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/circuit.jpg)
