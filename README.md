@@ -103,3 +103,18 @@ AI-GARAGE contains the following features:-
 
 ![Hardware](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/Hardware.png)
 
+## Software/Access Requirements<a name="Software/Access-Requirements"></a> 
+ * [IBM developer account](https://cloud.ibm.com/login)
+ * [IBM Watson IoT](https://cloud.ibm.com/login)
+ * [IBM Watson Studio](https://cloud.ibm.com/login) 
+ * [IBM Watson Services](https://cloud.ibm.com/login) 
+ * [Node Red](https://cloud.ibm.com/login)
+ * [IBM Cloudant DB](https://cloud.ibm.com/login)
+ * [IBM Object Storage](https://cloud.ibm.com/login)
+ * [Twilio](https://www.twilio.com/) API access- for SMS notifications.
+ * [Python3](https://www.python.org)- for programming the raspberry pi.
+ * [MIT APP INVENTOR](https://appinventor.mit.edu/)-For making the app.
+ * [Open CV](https://opencv.org)
+ * [Tesseract](https://pypi.org/project/pytesseract)
+ * [Face recognition package](https://face-recognition.readthedocs.io/en/latest/readme.html)
+
