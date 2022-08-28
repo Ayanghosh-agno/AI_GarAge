@@ -73,6 +73,10 @@ AI-GARAGE contains the following features:-
 
 [![Demo Video](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/Th)](https://youtu.be/)
 
-h2 align="center">Architecture</h1><a name="Architecture"></a>
+<h2 align="center">Architecture</h1><a name="Architecture"></a>
 
 ![Architecture Image](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/AI-Garage_Archi%20.png)
+
+
+## Long Description <a name="Long-Description"></a>
+[Long Description Document Link](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/DOCUMENTATION/AI-GARAGE.pdf)
