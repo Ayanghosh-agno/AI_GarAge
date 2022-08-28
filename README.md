@@ -32,3 +32,12 @@ The AI GARAGE is a prototype of the smart garage system, which is one of the ess
   10. [Planned for Future](#Planned-for-Future)
   11. [Authors](#Authors)
 
+
+
+<h2 align="center"> Short Description <a name="Short-Description"></a> </h2>
+
+### What's the problem? <a name="whats-the-problem"></a>
+
+The major issue in now a days are the busy life of the human mankind, due to which many of us forget to close the garage door in hurry and the consequences is very well known to us. Securing homes has become one of the concerning issues. Today homes are being more vulnerable for several threats especially being burgled. For this manner home security is needed. Home security implicitly means a secured mechanism for the door Also, there might be way to check if our garage door is open or close remotely form the CCTV installed in the garage but it is difficult for us to operate the door remotely. Moreover in this world where technology is taking over in a rocket speed we need to open the garage door every time manually while entering with our car.
+
+
