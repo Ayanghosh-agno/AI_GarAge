@@ -118,3 +118,8 @@ AI-GARAGE contains the following features:-
  * [Tesseract](https://pypi.org/project/pytesseract)
  * [Face recognition package](https://face-recognition.readthedocs.io/en/latest/readme.html)
 
+
+## Project Roadmap <a name="Project-Roadmap"></a>
+![picture alt](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/roadmap.png)
+
+    
