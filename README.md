@@ -125,3 +125,41 @@ AI-GARAGE contains the following features:-
     
 ## Circuit Setup <a name="Circuit-Setup"></a>
  ![picture alt](https://github.com/Ayanghosh-agno/AI_GarAge/blob/main/Images/circuit.jpg)
+
+ ## Development/Code-Setup <a name="Development/Code-Setup"></a>
+  
+  ### Upload the python files to Jetson-Nano
+  
+* After uploading change the credentials.py file with your own credential of IBM Cloud services.
+* Chnage the Twillo credentials with your own credentials.
+* Insert a training image for the faial recognition in the project directory and change the variables in the train_face.py. Also change input their name which you want to hover after successfully recognising them in Face_rec.py.
+* Do the connecting as shown above with the relay module and Jetson-nano.
+
+* Install the following libraries
+
+```
+pip3 install face_recognition
+pip3 install pytesseract
+
+```
+* Now run all the python files
+
+### Import the APP
+
+* Import the App to your smartphone.
+* Now you will be ready to use AI-Garage after connecting the circuit as given. 
+
+## Planned for Future <a name="Planned-for-Future"></a>
+
+1. Improve the facial-recognition part and the number plate recognition part to work it flawlessly.
+
+2. Improve the UI of the app to make more attractive and easy to use.
+
+3. To make a different segment in the app where the admin can check the history of the captured image along with the date and time.
+
+4. Implementing a setting section for the system to train the face and the admin's vehicle number plate to make it super convenient. 
+
+5. Predicting best car over a given price range of the admin.
+
+## Contributor<a name="Authors"></a>
+* Ayan Ghosh- Final Year Under-Graduate Student in University Institute of Technology, Burdwan [*See Linkedin*](https://www.linkedin.com/in/ayan-ghosh-4743841a1/)
